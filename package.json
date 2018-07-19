@@ -1,5 +1,5 @@
 {
-  "name": "resample",
+  "name": "most-resample",
   "version": "1.0.0",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
